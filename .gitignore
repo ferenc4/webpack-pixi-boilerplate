@@ -2,3 +2,5 @@
 dist/
 node_modules/
 *.iml
+yarn.lock
+package-lock.json
